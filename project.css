@@ -1,0 +1,21 @@
+body{
+	background-color: white ; 
+	margin: 0 ;
+	padding:0;
+}
+.Quiz_wrapper{
+	height: 500px ; 
+	width :700px ;
+	background-color: #0000ff94 ;
+	margin:  30px auto ; 
+	border-radius : 8px ;
+	padding: 25px
+}
+.Quiz_wrapper .question {
+	padding: 100px ;
+	background-color:red ; 
+	border-radius: 16px ;  
+	color: red ;
+	font-size: 50px ; 
+	float: left ; 
+}
